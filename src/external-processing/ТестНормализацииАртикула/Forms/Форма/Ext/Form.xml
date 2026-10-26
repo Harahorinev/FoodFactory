@@ -17,6 +17,21 @@
 			<CommandName>Form.Command.ПроверитьКоличество</CommandName>
 			<ExtendedTooltip name="ПроверитьКоличествоРасширеннаяПодсказка" id="6"/>
 		</Button>
+		<Button name="ПроверитьМассив" id="7">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ПроверитьМассив</CommandName>
+			<ExtendedTooltip name="ПроверитьМассивРасширеннаяПодсказка" id="8"/>
+		</Button>
+		<Button name="ПроверитьНормализациюМассива" id="9">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ПроверитьНормализациюМассива</CommandName>
+			<ExtendedTooltip name="ПроверитьНормализациюМассиваРасширеннаяПодсказка" id="10"/>
+		</Button>
+		<Button name="ПроверитьАнализАртикулов" id="11">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ПроверитьАнализАртикулов</CommandName>
+			<ExtendedTooltip name="ПроверитьАнализАртикуловРасширеннаяПодсказка" id="12"/>
+		</Button>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
@@ -72,6 +87,51 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ПроверитьКоличество</Action>
+		</Command>
+		<Command name="ПроверитьМассив" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить массив</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить массив</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПроверитьМассив</Action>
+		</Command>
+		<Command name="ПроверитьНормализациюМассива" id="6">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить нормализацию массива</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить нормализацию массива</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПроверитьНормализациюМассива</Action>
+		</Command>
+		<Command name="ПроверитьАнализАртикулов" id="7">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить анализ артикулов</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить анализ артикулов</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПроверитьАнализАртикулов</Action>
 		</Command>
 	</Commands>
 </Form>
