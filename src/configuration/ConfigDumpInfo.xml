@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="52431e82-7931-4a8c-86a1-eb3c20d142bc" configVersion="253ddb96b3c2d24493d254d6787c197500000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="8174714a-7f8b-4097-b4f8-a9a5b9772b42"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="830e4e52-78ce-4116-9d2e-2d21e61a1c90"/>
+		</Metadata>
+		<Metadata name="CommonModule.УтилитыFoodFactory" id="336fb3c7-1741-4b4c-82e9-b35b1e973ad4" configVersion="6c03415648723b4590c45d94c8d4e86000000000"/>
+		<Metadata name="CommonModule.УтилитыFoodFactory.Module" id="336fb3c7-1741-4b4c-82e9-b35b1e973ad4.0" configVersion="6b02730309883f43a949a741205702df00000000"/>
+		<Metadata name="Configuration.FoodFactory" id="05d87be4-dc5c-4cca-a53c-392467b84193" configVersion="3c37f397aa60cb4fb2a60e783639dbaf00000000"/>
+		<Metadata name="Language.Русский" id="cc530be0-5ec6-4e53-89b4-70717d3b2c7f" configVersion="e5e78376a9dad0498d2ba0d632c6eb1a00000000"/>
+		<Metadata name="Subsystem.Склад" id="51e6516b-79e3-4c42-880c-f503f3794989" configVersion="a205649c2de85b41b94f52f4883c3bdf00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

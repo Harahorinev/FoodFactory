@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+# Информационная база и блокировки 1С
+1Cv8.1CD
+1Cv8.1cd
+*.1CD
+*.1cd
+*.lck
+# Бинарные выгрузки 1С
+*.dt
+*.cf
+*.cfu
+*.cfe
+*.epf
+*.erf
+# Временные файлы и журналы
+1Cv8Log/
+1Cv8Tmp/
+*.pfl
+*.v8i
+*.tmp
+*.temp
+*.bak
+*~
+~$*
+# Локальные настройки и секреты
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials*
+secrets*
