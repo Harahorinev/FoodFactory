@@ -252,6 +252,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Склад</Subsystem>
 			<CommonModule>УтилитыFoodFactory</CommonModule>
+			<CommonModule>ПроверкиFoodFactory</CommonModule>
 			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>

@@ -32,6 +32,16 @@
 			<CommandName>Form.Command.ПроверитьАнализАртикулов</CommandName>
 			<ExtendedTooltip name="ПроверитьАнализАртикуловРасширеннаяПодсказка" id="12"/>
 		</Button>
+		<Button name="ТестПроверкиАртикула" id="13">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ТестПроверкиАртикула</CommandName>
+			<ExtendedTooltip name="ТестПроверкиАртикулаРасширеннаяПодсказка" id="14"/>
+		</Button>
+		<Button name="ТестПоискаПоАртикулу" id="15">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ТестПоискаПоАртикулу</CommandName>
+			<ExtendedTooltip name="ТестПоискаПоАртикулуРасширеннаяПодсказка" id="16"/>
+		</Button>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
@@ -132,6 +142,36 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ПроверитьАнализАртикулов</Action>
+		</Command>
+		<Command name="ТестПроверкиАртикула" id="8">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест проверки артикула</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест проверки артикула</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ТестПроверкиАртикула</Action>
+		</Command>
+		<Command name="ТестПоискаПоАртикулу" id="9">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест поиска по артикулу</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест поиска по артикулу</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ТестПоискаПоАртикулу</Action>
 		</Command>
 	</Commands>
 </Form>

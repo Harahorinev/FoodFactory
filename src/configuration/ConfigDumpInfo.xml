@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Catalog.Номенклатура" id="52431e82-7931-4a8c-86a1-eb3c20d142bc" configVersion="253ddb96b3c2d24493d254d6787c197500000000">
+		<Metadata name="Catalog.Номенклатура" id="52431e82-7931-4a8c-86a1-eb3c20d142bc" configVersion="53cbc7f8c53a224b935bbdd4f119e67a00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="8174714a-7f8b-4097-b4f8-a9a5b9772b42"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="830e4e52-78ce-4116-9d2e-2d21e61a1c90"/>
 		</Metadata>
+		<Metadata name="Catalog.Номенклатура.ManagerModule" id="52431e82-7931-4a8c-86a1-eb3c20d142bc.3" configVersion="7634c8304bb95b49b66186b33b1ad8fa00000000"/>
+		<Metadata name="CommonModule.ПроверкиFoodFactory" id="3a2bf475-8fd9-47ef-a9f1-b42bd3bf7b84" configVersion="7eac09a76a2a184d8ff86021abd9bc0100000000"/>
+		<Metadata name="CommonModule.ПроверкиFoodFactory.Module" id="3a2bf475-8fd9-47ef-a9f1-b42bd3bf7b84.0" configVersion="01d1ac0b49685849b0b526434971b7ad00000000"/>
 		<Metadata name="CommonModule.УтилитыFoodFactory" id="336fb3c7-1741-4b4c-82e9-b35b1e973ad4" configVersion="18ba3fef6752af468e3ec88d56167dd300000000"/>
 		<Metadata name="CommonModule.УтилитыFoodFactory.Module" id="336fb3c7-1741-4b4c-82e9-b35b1e973ad4.0" configVersion="07e3e4eac6483447875c207c7164d72900000000"/>
-		<Metadata name="Configuration.FoodFactory" id="05d87be4-dc5c-4cca-a53c-392467b84193" configVersion="3c37f397aa60cb4fb2a60e783639dbaf00000000"/>
+		<Metadata name="Configuration.FoodFactory" id="05d87be4-dc5c-4cca-a53c-392467b84193" configVersion="0b0600d40d31a84ab0718b412aec49e900000000"/>
 		<Metadata name="Language.Русский" id="cc530be0-5ec6-4e53-89b4-70717d3b2c7f" configVersion="e5e78376a9dad0498d2ba0d632c6eb1a00000000"/>
 		<Metadata name="Subsystem.Склад" id="51e6516b-79e3-4c42-880c-f503f3794989" configVersion="a205649c2de85b41b94f52f4883c3bdf00000000"/>
 	</ConfigVersions>
