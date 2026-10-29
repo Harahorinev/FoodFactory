@@ -32,6 +32,12 @@
 			<ContextMenu name="ЕдиницаИзмеренияКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ЕдиницаИзмеренияРасширеннаяПодсказка" id="12"/>
 		</InputField>
+		<InputField name="ВидНоменклатуры" id="15">
+			<DataPath>Объект.ВидНоменклатуры</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ВидНоменклатурыКонтекстноеМеню" id="16"/>
+			<ExtendedTooltip name="ВидНоменклатурыРасширеннаяПодсказка" id="17"/>
+		</InputField>
 		<Button name="ПроверитьУникальностьАртикула" id="13">
 			<Type>UsualButton</Type>
 			<CommandName>Form.Command.ПроверитьУникальностьАртикула</CommandName>

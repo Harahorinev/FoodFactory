@@ -254,6 +254,9 @@
 			<CommonModule>УтилитыFoodFactory</CommonModule>
 			<CommonModule>ПроверкиFoodFactory</CommonModule>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>ЕдиницыИзмерения</Catalog>
+			<Catalog>Слады</Catalog>
+			<Enum>ВидыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
